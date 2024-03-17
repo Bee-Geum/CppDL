@@ -69,7 +69,7 @@ int main() {
                         &x_train[0][0], &y_train[0][0], &hypothe[0][0]) ; 
 
         if (i % 100 == 0) {
-            cout << "Epoch" << i << "/" << epoch << " w: " << *weight[0] << ", "
+            cout << "Epoch " << i << "/" << epoch << " w: " << *weight[0] << ", "
             << "b: " << *bias[0] << ", " << "Cost: " << cost << '\n' ;
         }
     }
