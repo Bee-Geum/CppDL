@@ -1,1 +1,1 @@
-cpp로 deep learning 만들어 본 것
+cpp로 deep learning 구현해본 것
